@@ -1,0 +1,12 @@
+{
+  "export_job_id": "bc58f07e-4555-4096-b00e-4d0705632799",
+  "id_short": 718160,
+  "published_at": "2026-04-16T19:03:49Z",
+  "repo_name": "top-20-active-restaurant-review-whales-in-seattle-tacoma-bellevue-wa-metro-area-us-sample-718160",
+  "sample_asset_name": "beamstation_718160_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/718160/beamstation_718160_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
+  "sample_records": 189,
+  "sample_sha256": "e9627b50ed42b7f1eb5d8f717c513292a4228aef830ae8bfb65936898746797d",
+  "sample_size_bytes": 749075,
+  "total_records": 1088
+}
