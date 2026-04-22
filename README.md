@@ -1,6 +1,6 @@
 # Top 20% Active Restaurant Review Whales in Seattle-Tacoma-Bellevue, WA Metro Area, US
 
-> Free BeamStation sample export with 189 rows and masked direct-contact fields.
+> Free BeamStation sample export with 174 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `718160` |
 | Location | Seattle-Tacoma-Bellevue, WA |
 | Category | Restaurants |
-| Full dataset size | 1,899 records |
-| Free sample size | 189 records (9.95%) |
-| Last export | 2026-04-15T01:12:12.456168+00:00 |
+| Full dataset size | 1,747 records |
+| Free sample size | 174 records (9.96%) |
+| Last export | 2026-04-22T05:39:52.775751+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-20-active-restaurant-review-whales-in-seattle-tacoma-bellevue-wa-metro-area-us-sample-718160/releases/download/sample-latest/beamstation_718160_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
